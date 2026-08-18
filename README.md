@@ -2,7 +2,7 @@
 
 **A transparent stress test of whether an evaluation question—and a proposed governance repair—preserve their real objective after becoming optimization targets.**
 
-[Read the public report](https://johnfarseon.substack.com/p/goodharts-game-20-the-safety-record) · [Read the derived audit](./GG2-20260815T173200-0400-derived-audit.md) · [Inspect the raw transcript](./GG2-20260815T173200-0400-public-transcript.md)
+[Research brief](./RESEARCH_BRIEF.md) · [Cite this work](./CITATION.cff) · [Read the public report](https://johnfarseon.substack.com/p/goodharts-game-20-the-safety-record) · [Derived audit](./GG2-20260815T173200-0400-derived-audit.md) · [Raw transcript](./GG2-20260815T173200-0400-public-transcript.md)
 
 ## Result at a glance
 
