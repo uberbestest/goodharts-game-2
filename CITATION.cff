@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use or discuss this evaluation artifact, please cite it using the metadata below."
+title: "Goodhart's Game 2.0: A two-track stress test of evaluation-question and governance-repair integrity"
+type: dataset
+authors:
+  - family-names: Young
+    given-names: Josh
+version: 1.0.0
+date-released: 2026-08-16
+url: "https://github.com/uberbestest/goodharts-game-2"
+repository-code: "https://github.com/uberbestest/goodharts-game-2"
+abstract: >-
+  An operator-mediated black-box case study testing whether an AI evaluation
+  question and a proposed governance repair preserve their intended objective
+  under optimization pressure. The record includes a public transcript,
+  derived structural audit, bounded categorical verdicts, and an explicit
+  claim boundary. The repair track stopped after hard-gate failures rather
+  than promoting a proxy-substituting repair.
+keywords:
+  - AI evaluation
+  - Goodhart's law
+  - proxy substitution
+  - governance
+  - black-box auditing
+  - evaluation integrity
