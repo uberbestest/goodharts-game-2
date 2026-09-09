@@ -1,5 +1,9 @@
 # Goodhart's Game 2.0
 
+**AI evaluation · agent safety · Goodhart's law · objective drift · specification gaming · governance robustness · proxy substitution**
+
+[Support Josh Young's independent evaluation research](https://cash.app/$uberbestest1)
+
 **A transparent stress test of whether an evaluation question—and a proposed governance repair—preserve their real objective after becoming optimization targets.**
 
 [Research brief](./RESEARCH_BRIEF.md) · [Cite this work](./CITATION.cff) · [Read the public report](https://johnfarseon.substack.com/p/goodharts-game-20-the-safety-record) · [Derived audit](./GG2-20260815T173200-0400-derived-audit.md) · [Raw transcript](./GG2-20260815T173200-0400-public-transcript.md)
